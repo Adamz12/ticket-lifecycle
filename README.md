@@ -51,12 +51,27 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 <img src="https://i.imgur.com/RbLAWmS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Open your browser and go to the Admin/Analyst portal: http://localhost/osTicket/scp/login.php
+
+- Log in using John’s credentials (username: john, password: Password1)
+
+- Locate and click the ticket titled “Entire mobile/online banking system is down”
+
+- In the Priority dropdown, select Sev-A and enter a comment like “Critical service outage – immediate attention required”
+
+- In the Help Topic field, confirm or change to Business Critical Outage and add a note such as “Affecting all online banking users”
+
+- For Department, choose Online Banking
+
+- Under Assign To, select Jane (who’s in the Online Banking team)
+
+- Click Save Changes to apply your updates
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZeDWooa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
