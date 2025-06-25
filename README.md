@@ -124,4 +124,24 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 <p>
 <img src="https://i.postimg.cc/7ZWPcPbB/ticket-A-resolved.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+
+- Open your browser and go to the End-User portal: http://localhost/osTicket
+
+- Click Open New Ticket
+
+- Enter Email: ken@gmail.com
+
+- Select Help Topic: General Enquiry
+
+- In Subject, type: “Accounting department needs Adobe update”
+
+- In Message, type: “The accounting department cannot use the Adobe software.”
+
+- Click Submit to create the ticket.
+</p>
+<p>
+<img src="https://i.postimg.cc/5yRkJrvM/create-ticket-B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
