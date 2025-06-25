@@ -92,4 +92,36 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 <p>
 <img src="https://i.postimg.cc/Bv0ZsPZv/changing-john-settings.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+
+- Open your browser and go to the Admin/Analyst portal: http://localhost/osTicket/scp/login.php
+
+- Log in with Jane’s credentials (username: jane, password: Password1)
+
+- Find and open the ticket “Entire mobile/online banking system is down”
+
+- Change Status to In Progress
+
+- In the Public Reply box, enter:
+
+- We suspect the recent system updates caused this outage. We’ll roll back those updates shortly and investigate further.
+
+- Click Post Reply to notify the requester
+
+- (Later, after investigating and rolling back updates) open the ticket again
+
+- Change Status to Resolved
+
+- In the Public Reply box, enter:
+
+- The issue was confirmed to be with the updates. We’ve rolled them back, notified the vendor, and online banking services are now back up.
+
+- Click Post Reply and then Close Ticket to complete the workflow
+</p>
+<p>
+<img src="https://i.postimg.cc/vTV512ky/work-ticket-A-as-jane.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.postimg.cc/7ZWPcPbB/ticket-A-resolved.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
