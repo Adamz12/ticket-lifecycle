@@ -210,4 +210,9 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 <p>
 <img src="https://i.postimg.cc/XJnvMwvR/working-ticket-C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<h2>Conclusion</h2>
+<p>
+And that wraps up our osTicket lab—from setting up the VM and installing all components to managing tickets through their full lifecycle. Don’t forget to shut down your VM when you’re done to save costs, or delete the resource group if you’re finished with the entire environment. Thank you for following along!
+</p>
 <br />
