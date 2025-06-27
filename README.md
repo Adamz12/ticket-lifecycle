@@ -188,4 +188,26 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 <p>
 <img src="https://i.postimg.cc/xdzfN6kD/creating-ticket-C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+
+- Open the Admin/Analyst portal (http://localhost/osTicket/scp/login.php) and log in as John
+
+- Locate and open the “CFO’s laptop will not turn on” ticket
+
+- Change Priority to Sev-B
+
+- Set Department to Support
+
+- In Assign To, select John
+
+- Click Post Reply with:
+
+- After investigating, we found the charger wasn’t working. Once the charger was replaced, the laptop powered on normally.
+
+- Change Status to Closed to mark the ticket as resolved.
+</p>
+<p>
+<img src="https://i.postimg.cc/XJnvMwvR/working-ticket-C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
