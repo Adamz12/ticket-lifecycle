@@ -144,4 +144,28 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 <p>
 <img src="https://i.postimg.cc/5yRkJrvM/create-ticket-B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+
+- Open the Admin/Analyst portal (http://localhost/osTicket/scp/login.php) and log in as John
+
+- Locate and open the “Accounting department needs Adobe update” ticket
+
+- In the Assign To field, select John
+
+- Change Priority to Sev-C (lower urgency for two users affected)
+
+- Click Post Reply with:
+
+- Please restart your computers and let us know if the issue persists.
+
+- After the restart confirms the issue is resolved, click Post Reply with:
+
+- Restarting the machines has resolved the problem. Closing the ticket now—feel free to reopen if anything else comes up.
+
+- Change Status to Closed to complete the ticket lifecycle.
+</p>
+<p>
+<img src="https://i.postimg.cc/3N4zk73w/Working-ticket-B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
