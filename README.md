@@ -168,4 +168,24 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 <p>
 <img src="https://i.postimg.cc/3N4zk73w/Working-ticket-B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+
+- Open your browser and go to the End-User portal: http://localhost/osTicket
+
+- Click Open New Ticket
+
+- Enter Email: karen@gmail.com
+
+- Select Help Topic: Personal Computer Issues
+
+- In Subject, type: “CFO’s laptop will not turn on”
+
+- In Message, type: “The laptop will not turn on, even though the power button is being pressed.”
+
+- Click Submit to create the ticket.
+</p>
+<p>
+<img src="https://i.postimg.cc/xdzfN6kD/creating-ticket-C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
