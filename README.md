@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 First, navigate to the End-User portal at http://localhost/osTicket and click Open New Ticket
 </p>
 <p>
-<img src="https://i.imgur.com/HC3GPBW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/3x45kNcd/support-center.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -48,7 +48,7 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 <br />
 
 <p>
-<img src="https://i.imgur.com/RbLAWmS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/KzQsqhH6/creating-1st-ticket.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -71,7 +71,7 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 <br />
 
 <p>
-<img src="https://i.imgur.com/T6NJbZh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/N0dzbwVW/editing-ticket.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -90,7 +90,7 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 - Log out of the Supreme Admin account and log back in as John—he should now be able to configure the ticket.
 </p>
 <p>
-<img src="https://i.postimg.cc/Bv0ZsPZv/changing-john-settings.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/Bv0ZsPZv/changing-john-settings.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -119,10 +119,10 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 - Click Post Reply and then Close Ticket to complete the workflow
 </p>
 <p>
-<img src="https://i.postimg.cc/vTV512ky/work-ticket-A-as-jane.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/vTV512ky/work-ticket-A-as-jane.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.postimg.cc/7ZWPcPbB/ticket-A-resolved.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/7ZWPcPbB/ticket-A-resolved.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -142,7 +142,7 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 - Click Submit to create the ticket.
 </p>
 <p>
-<img src="https://i.postimg.cc/5yRkJrvM/create-ticket-B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/5yRkJrvM/create-ticket-B.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -166,7 +166,7 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 - Change Status to Closed to complete the ticket lifecycle.
 </p>
 <p>
-<img src="https://i.postimg.cc/3N4zk73w/Working-ticket-B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/3N4zk73w/Working-ticket-B.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -186,7 +186,7 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 - Click Submit to create the ticket.
 </p>
 <p>
-<img src="https://i.postimg.cc/xdzfN6kD/creating-ticket-C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/xdzfN6kD/creating-ticket-C.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -208,7 +208,7 @@ First, navigate to the End-User portal at http://localhost/osTicket and click Op
 - Change Status to Closed to mark the ticket as resolved.
 </p>
 <p>
-<img src="https://i.postimg.cc/XJnvMwvR/working-ticket-C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/XJnvMwvR/working-ticket-C.png" height="800" width="800" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Conclusion</h2>
